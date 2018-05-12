@@ -1,0 +1,43 @@
+_repo: Phineas-FinnThe-Irish-Member_18000
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+description: "Phineas Finn is a novel by Anthony Trollope and the name of its leading\
+  \ character. The novel was first published as a monthly serial from October 1867\
+  \ to May 1868 in St Paul's Magazine. It is the second of the \"Palliser\" series\
+  \ of novels. Its sequel, Phineas Redux, is the fourth novel in the series.\nIt deals\
+  \ with both British parliamentary politics of the 1860s, including voting reform\
+  \ (secret ballot and eliminating rotten boroughs and Irish tenant-right) and Finn's\
+  \ romances with women of fortune, which would secure his financial future.\n From\
+  \ Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18000'
+  wikidata: Q7186349
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Political fiction'
+- !lcsh 'Dublin (Ireland) -- Fiction'
+- !lcsh 'Legislators -- Fiction'
+- !lcsh 'Palliser, Plantagenet (Fictitious character) -- Fiction'
+- !lcsh 'London (England) -- Fiction'
+title: 'Phineas Finn
+
+  The Irish Member'
+url: http://www.gutenberg.org/ebooks/18000
+wikipedia:
+- https://en.wikipedia.org/wiki/Phineas_Finn
